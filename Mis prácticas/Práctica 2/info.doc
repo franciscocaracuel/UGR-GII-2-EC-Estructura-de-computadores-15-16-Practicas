@@ -1,0 +1,7 @@
+﻿Francisco Javier Caracuel Beltrán
+
+
+*Algunos de los distintos métodos para implementar el popcount y parity han sido obtenidos de internet.
+
+
+Se puede observar como las versiones más rápidas son las que ejecutan “builtin” y “bitset”, ya que hacen uso de la instrucción nativa que cuenta la cpu para el cálculo del número de 1 o paridad.

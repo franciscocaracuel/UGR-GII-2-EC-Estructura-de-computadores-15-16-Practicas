@@ -1,0 +1,12 @@
+#                 parity       value      cycles    time(ns)   total(ms)
+"       parity00(empty)"       65536           5        2.34        0.15
+"         parity01(for)"       32686          52       32.67        2.14
+"       parity02(while)"       32686          32       25.90        1.70
+"    parity03(do while)"       32686          70       26.17        1.72
+"         parity04(asm)"       32686          38       24.83        1.63
+"      parity05(asm v2)"       32686          56       34.97        2.29
+"        parity06(tree)"       32683           3        2.26        0.15
+"          parity11(HD)"       32850           4        3.48        0.23
+"     parity12(builtin)"       32850           3        2.27        0.15
+"      parity13(bitset)"       32850           2        2.27        0.15
+"   parity14(recursive)"       32686         116       60.53        3.97
