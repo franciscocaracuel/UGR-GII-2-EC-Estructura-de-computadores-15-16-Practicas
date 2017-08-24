@@ -1,2 +1,11 @@
-# UGR-GII-2-EC-Estructura-de-computadores-15-16-Practicas
-Prácticas de la asignatura EC realizadas en la ETSIIT, UGR en el curso 2015/2016
+# Prácticas TOC - UGR - ETSIIT - GII - PDF
+
+Prácticas realizadas en la asignatura EC (Estructura de Computadores) del grado en Ingeniería Informática en el curso 2014/2015, UGR.
+
+## Autor
+
+Francisco Javier Caracuel Beltrán
+
+fjcb312@gmail.com
+
+GNU General Public License v3.0
